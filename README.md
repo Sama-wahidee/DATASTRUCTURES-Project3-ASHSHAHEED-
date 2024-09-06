@@ -27,13 +27,13 @@ In this project, you will implement a martyrs data structure using a combination
 
 The main interface provides a simple option to upload martyr data for processing.
 
-![Main Interface](FirstProject_Martyrs/src/Resources/1.jpg)
+![Main Interface](ThirdProject_Martys/src/Resources/1.jpg)
 
 ## 🚨 Data Upload Notification
 
 The notification indicates successful data upload, though some records might be ignored due to incomplete data.
 
-![Upload Notification](FirstProject_Martyrs/src/Resources/2.jpg)
+![Upload Notification](ThirdProject_Martys/src/Resources/2.jpg)
 
 ## 🌍 Location Information Management
 
@@ -43,8 +43,8 @@ Users can:
 - Update or delete existing locations
 - Search for locations
 
-![Location Management](FirstProject_Martyrs/src/Resources/3.jpg)
-![Location Management](FirstProject_Martyrs/src/Resources/4.jpg)
+![Location Management](ThirdProject_Martys/src/Resources/3.jpg)
+![Location Management](ThirdProject_Martys/src/Resources/4.jpg)
 
 ## 📋 Martyr Information Management
 
@@ -54,7 +54,7 @@ Users can:
 - Update or delete existing records
 - Search by location
 
-![Martyr Management](FirstProject_Martyrs/src/Resources/5.jpg)
+![Martyr Management](ThirdProject_Martys/src/Resources/5.jpg)
 
 ## 📊 Martyr Statistics
 
@@ -65,7 +65,7 @@ View summary statistics for selected locations, including:
 - Date with the maximum number of martyrs
 - Percentage of martyrs in Gaza compared to the total
 
-![Martyr Statistics](FirstProject_Martyrs/src/Resources/6.jpg)
+![Martyr Statistics](ThirdProject_Martys/src/Resources/6.jpg)
 
 ## 💾 Save Martyr File
 
